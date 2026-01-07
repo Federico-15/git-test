@@ -1,21 +1,21 @@
-# Hello! Federico!! ?
+# Hello! Federico!! ðŸ¦Ÿ
 
 <h3>? Experience</h3>
 
- - ¼­°æ SW ¾ÆÄ«µ¥¹Ì(±â¾÷ÁÖµµ) - AI/ºòµ¥ÀÌÅÍ Æ®·¢ (2024.02 ~ 2024.06)
- - UMC 8th,9th SpringBoot ÆÄÆ®Àå (2025.03 ~ )
- - ¿ì¸®FISA - Å¬¶ó¿ìµå ¿£Áö´Ï¾î¸µ Æ®·¢ (2025.12 ~ 2026.06)
+ - ï¿½ï¿½ï¿½ï¿½ SW ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½Öµï¿½) - AI/ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Æ®ï¿½ï¿½ (2024.02 ~ 2024.06)
+ - UMC 8th,9th SpringBoot ï¿½ï¿½Æ®ï¿½ï¿½ (2025.03 ~ )
+ - ï¿½ì¸®FISA - Å¬ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¾î¸µ Æ®ï¿½ï¿½ (2025.12 ~ 2026.06)
 
 <h3>? Awards & Competitions</h3>
 
- -  **DIVE-2024** - º»¼± ÁøÃâ
- -  **8th Ne(O)rdinary ÇØÄ¿Åæ** asdadsasd
+ -  **DIVE-2024** - ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+ -  **8th Ne(O)rdinary ï¿½ï¿½Ä¿ï¿½ï¿½** asdadsasd
 
 
 <h3>? Projects </h3>
 
- - [¹ß±æ´ê´Â°÷](https://github.com/Federico-15/SW_ET) (2024.04 ~ 2024.06)
- - [µ¿ÇØ.zip](https://github.com/DIVE-2024) (2024.09 ~ 2024.10)
+ - [ï¿½ß±ï¿½ï¿½Â°ï¿½](https://github.com/Federico-15/SW_ET) (2024.04 ~ 2024.06)
+ - [ï¿½ï¿½ï¿½ï¿½.zip](https://github.com/DIVE-2024) (2024.09 ~ 2024.10)
  - [RCG](https://github.com/RTG-Ryu-Chae-Guk) (2025.04 ~ 2025.05)
  - [Calorie-chat](https://github.com/hiho1010/calorie-chat) (2025.06)
  - [kkukmoa](https://github.com/UMC-8th-kkukmoa/back-end) (2025.07 ~ ing)
