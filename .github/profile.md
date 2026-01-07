@@ -1,21 +1,21 @@
-# Hello! Federico!! ğŸ‘‹
+# Hello! Federico!! ?
 
-<h3>ğŸ“ Experience</h3>
+<h3>? Experience</h3>
 
- - ì„œê²½ SW ì•„ì¹´ë°ë¯¸(ê¸°ì—…ì£¼ë„) - AI/ë¹…ë°ì´í„° íŠ¸ë™ (2024.02 ~ 2024.06)
- - UMC 8th,9th SpringBoot íŒŒíŠ¸ì¥ (2025.03 ~ )
- - ìš°ë¦¬FISA - í´ë¼ìš°ë“œ ì—”ì§€ë‹ˆì–´ë§ íŠ¸ë™ (2025.12 ~ 2026.06)
+ - ¼­°æ SW ¾ÆÄ«µ¥¹Ì(±â¾÷ÁÖµµ) - AI/ºòµ¥ÀÌÅÍ Æ®·¢ (2024.02 ~ 2024.06)
+ - UMC 8th,9th SpringBoot ÆÄÆ®Àå (2025.03 ~ )
+ - ¿ì¸®FISA - Å¬¶ó¿ìµå ¿£Áö´Ï¾î¸µ Æ®·¢ (2025.12 ~ 2026.06)
 
-<h3>ğŸ† Awards & Competitions</h3>
+<h3>? Awards & Competitions</h3>
 
- -  **DIVE-2024** - ë³¸ì„  ì§„ì¶œ
- -  **8th Ne(O)rdinary í•´ì»¤í†¤**
+ -  **DIVE-2024** - º»¼± ÁøÃâ
+ -  **8th Ne(O)rdinary ÇØÄ¿Åæ** asdadsasd
 
 
-<h3>ğŸ’» Projects </h3>
+<h3>? Projects </h3>
 
- - [ë°œê¸¸ë‹¿ëŠ”ê³³](https://github.com/Federico-15/SW_ET) (2024.04 ~ 2024.06)
- - [ë™í•´.zip](https://github.com/DIVE-2024) (2024.09 ~ 2024.10)
+ - [¹ß±æ´ê´Â°÷](https://github.com/Federico-15/SW_ET) (2024.04 ~ 2024.06)
+ - [µ¿ÇØ.zip](https://github.com/DIVE-2024) (2024.09 ~ 2024.10)
  - [RCG](https://github.com/RTG-Ryu-Chae-Guk) (2025.04 ~ 2025.05)
  - [Calorie-chat](https://github.com/hiho1010/calorie-chat) (2025.06)
  - [kkukmoa](https://github.com/UMC-8th-kkukmoa/back-end) (2025.07 ~ ing)
@@ -41,17 +41,11 @@
 
 -->
 
-<h3>ğŸ“– Blog</h3>
+<h3>? Blog</h3>
 
 <p>
   <a href="https://velog.io/@coding_goat/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" /></a>
 </p>
 
-<h3>ğŸ… Baekjoon Online Judge Tier</h3>
+<h3>? Baekjoon Online Judge Tier</h3>
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sh9806" alt="Baekjoon tier" width="150" />
-
-<!--
-
-<h3>ğŸ“Š GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Federico-15&show_icons=true&theme=radical" alt="GitHub Stats" width="250" />
--->
